@@ -1,0 +1,72 @@
+Student_ID,Name,Age,Gender,Grade_Level,Course_ID,Course_Name,Enrollment_Date,Completion_Date,Status,Final_Grade,Attendance_Rate,Time_Spent_on_Course_hrs,Assignments_Completed,Quizzes_Completed,Forum_Posts,Messages_Sent,Quiz_Average_Score,Assignment_Scores,Assignment_Average_Score,Project_Score,Extra_Credit,Overall_Performance,Feedback_Score,Parent_Involvement,Demographic_Group,Internet_Access,Learning_Disabilities,Preferred_Learning_Style,Language_Proficiency,Participation_Rate,Completion_Time_Days,Performance_Score,Course_Completion_Rate
+1054,Violet Davis,15,F,9,C071,Introduction to Music,9/8/2023,10/2/2023,In Progress,B,87,42,4,4,14,11,80,"[78, 85, 82, 78]",80.75,80,1,82,4,Medium,Suburban,Yes,ADHD,Auditory,Intermediate,68%,105,49.2,81.5
+1055,Leo Garcia,16,M,10,C072,Biology,9/8/2023,10/2/2023,Completed,A-,93,50,5,5,16,13,87,"[85, 88, 90, 92, 94]",89.8,85,2,88,4.4,High,Urban,Yes,None,Visual,Advanced,77%,105,56.7,88.2
+1056,Scarlett Clark,17,F,11,C073,Algebra II,9/8/2023,10/2/2023,Completed,A+,97,58,6,6,18,15,91,"[90, 92, 88, 94, 91]",91,96,4,98,4.9,High,Urban,Yes,None,Auditory,Advanced,90%,105,67.5,97.1
+1057,Eliana Moore,15,F,9,C074,World Geography,9/8/2023,10/2/2023,In Progress,B,89,43,4,4,13,10,78,"[75, 80, 75, 80]",77.5,78,1,80,3.8,Medium,Suburban,Yes,None,Auditory,Intermediate,70%,105,47.1,79.6
+1058,Elijah Smith,16,M,10,C075,Physical Education,9/8/2023,10/2/2023,Completed,A,95,55,5,5,17,14,90,"[88, 92, 94, 96, 90]",92,90,3,92,4.6,High,Urban,Yes,None,Visual,Intermediate,83%,105,61.8,92.7
+1059,John Thompson,16,F,9,C076,Intro to Programming,9/8/2023,12/2/2023,Completed,A-,93,50,5,5,16,13,88,"[85, 88, 90, 92, 94]",89.8,85,2,88,4.4,High,Urban,Yes,None,Visual,Advanced,78%,105,56.7,88.2
+1060,Lucas Hernandez,15,M,11,C077,Chemistry,9/8/2023,12/2/2023,In Progress,B-,86,42,4,4,14,11,80,"[78, 85, 82, 78]",80.75,80,1,82,3.9,Medium,Suburban,Yes,ADHD,Auditory,Intermediate,72%,105,49.2,81.5
+1061,Liam Johnson,14,M,10,C078,Spanish II,9/8/2023,10/2/2023,In Progress,B-,83,38,4,4,11,8,73,"[70, 75, 72, 78]",73.75,72,1,76,3.6,Low,Rural,Yes,None,Auditory,Intermediate,60%,105,43.2,75.2
+1016,Olivia Davis,17,F,9,C071,Introduction to Music,9/3/2023,11/4/2023,In Progress,B+,91,50,4,6,14,13,86,"[84, 88, 85, 90]",86.75,83,3,88,4.3,High,Urban,Yes,ADHD,Visual,Advanced,80%,105,57,87.6
+1017,Ethan Wilson,15,M,10,C072,Biology,9/3/2023,11/5/2023,Completed,B,89,43,4,5,13,11,80,"[78, 85, 80, 88]",82.75,80,1,82,3.8,Medium,Suburban,Yes,None,Auditory,Intermediate,74%,105,51.8,80.7
+1018,Lily Chen,16,F,11,C073,Algebra II,9/3/2023,11/6/2023,Completed,A-,93,55,4,7,17,14,90,"[88, 92, 90, 94]",91,88,2,92,4.5,High,Urban,Yes,None,Visual,Advanced,82%,105,61.1,91.4
+1019,Kevin Liu,17,M,9,C074,World Geography,9/3/2023,11/7/2023,Completed,A+,98,60,4,8,20,16,95,"[92, 96, 98, 94]",95,94,4,96,4.8,High,Urban,Yes,None,Visual,Advanced,90%,105,67.5,96.3
+1020,Sophia King,15,F,10,C075,Physical Education,9/3/2023,11/8/2023,Completed,B,87,40,4,5,14,11,80,"[78, 82, 85, 88]",83.25,80,1,82,3.9,Medium,Suburban,Yes,Dyslexia,Visual,Intermediate,70%,105,49.4,81.2
+1021,Noah Thompson,16,M,9,C076,Intro to Programming,9/3/2023,12/9/2023,Completed,B+,90,46,4,6,16,12,85,"[82, 88, 90, 86]",86.5,84,2,88,4.2,High,Urban,Yes,None,Auditory,Intermediate,76%,105,55.5,87.3
+1022,Ava Hall,17,F,11,C077,Chemistry,9/3/2023,1/10/2024,Completed,A-,94,55,4,7,18,15,92,"[90, 92, 88, 94]",91,89,3,92,4.6,High,Urban,Yes,None,Visual,Advanced,85%,105,64.2,92.4
+1023,William Moore,16,M,10,C078,Spanish II,9/3/2023,11/11/2023,In Progress,B,88,45,4,5,15,12,80,"[78, 85, 82, 88]",83.25,80,1,82,3.9,Medium,Suburban,Yes,Dyslexia,Visual,Intermediate,72%,105,53.1,81.7
+1024,Mia Johnson,17,F,9,C079,Art History,9/3/2023,2/12/2024,Completed,A-,93,50,4,6,17,14,88,"[85, 90, 92, 88]",88.75,86,2,90,4.4,High,Urban,Yes,None,Auditory,Advanced,78%,105,58.8,89.3
+1025,Jack Thompson,16,M,10,C080,Literature,9/3/2023,11/13/2023,Completed,B+,90,46,4,6,16,12,85,"[82, 88, 90, 86]",86.5,84,2,88,4.2,High,Urban,Yes,None,Visual,Intermediate,76%,105,55.5,87.3
+1015,Michael White,20,M,11,C077,Chemistry,9/2/2023,10/18/2023,Completed,A-,94,48,4,6,15,12,88,"[85, 90, 92, 88]",88.75,87,2,90,4.4,Low,Rural,No,None,Kinesthetic,Beginner,77%,105,58.8,89.1
+1009,Tim Green,16,M,9,C071,Introduction to Music,9/2/2023,9/15/2023,Completed,B,89,42,4,5,12,11,80,"[80, 85, 75, 86]",81.5,78,2,83,3.9,Medium,Suburban,Yes,None,Auditory,Intermediate,72%,105,49.4,82.2
+1010,Anna White,17,F,10,C072,Biology,9/2/2023,9/15/2023,Completed,A,97,60,4,7,20,15,94,"[95, 92, 94, 96]",94.25,92,4,96,4.9,High,Urban,Yes,None,Visual,Advanced,90%,105,67.5,95.1
+1011,Laura Brown,15,F,11,C073,Algebra II,9/2/2023,9/15/2023,Completed,B+,92,45,4,6,15,12,87,"[85, 88, 90, 89]",88,86,3,88,4.3,Medium,Suburban,Yes,Dyslexia,Visual,Intermediate,78%,105,57,88.1
+1012,Mark Johnson,16,M,9,C074,World Geography,9/2/2023,10/15/2023,In Progress,B+,93,47,4,6,14,11,85,"[82, 88, 85, 90]",86.25,84,2,88,4.2,High,Urban,Yes,None,Auditory,Intermediate,76%,105,56.7,87.2
+1013,Emily Wang,17,F,10,C075,Physical Education,9/2/2023,10/16/2023,Completed,A-,95,55,4,7,18,14,90,"[88, 92, 94, 90]",91,89,3,92,4.6,High,Urban,Yes,None,Visual,Advanced,85%,105,64.2,93.4
+1014,Sarah Li,15,F,9,C076,Intro to Programming,9/2/2023,10/17/2023,Completed,B,88,42,4,5,12,10,82,"[80, 85, 85, 90]",85,80,1,84,4,Medium,Suburban,Yes,None,Auditory,Intermediate,73%,105,50.1,82.8
+1015,Michael Brown,16,M,11,C077,Chemistry,9/2/2023,10/18/2023,Completed,A-,94,48,4,6,15,12,88,"[85, 90, 92, 88]",88.75,87,2,90,4.4,Low,Rural,No,None,Kinesthetic,Beginner,77%,105,58.8,89.1
+1034,Mia Rodriguez,17,F,9,C071,Introduction to Music,9/6/2023,2/15/2024,Completed,A,96,56,4,7,18,16,92,"[90, 92, 88, 94]",91,92,3,94,4.7,High,Urban,Yes,None,Visual,Advanced,83%,105,62.1,93.5
+1035,Alexander White,16,M,10,C072,Biology,9/6/2023,2/15/2024,Completed,A-,94,50,4,6,16,13,88,"[85, 90, 88, 86]",87.25,85,2,88,4.3,High,Urban,Yes,None,Auditory,Intermediate,78%,105,56.7,88.2
+1036,Sam Leetr,15,F,11,C073,Algebra II,9/6/2023,2/15/2024,In Progress,B-,87,41,4,5,13,10,78,"[75, 80, 82, 85]",80.5,78,1,80,3.8,Medium,Suburban,Yes,None,Auditory,Intermediate,69%,105,48.3,80.4
+1037,Liam Harris,16,M,9,C074,World Geography,9/6/2023,2/15/2024,Completed,B+,91,47,4,6,15,12,85,"[82, 88, 85, 90]",86.25,84,2,88,4.2,High,Urban,Yes,None,Auditory,Intermediate,76%,105,55.5,87.3
+1038,Amelia Thompson,17,F,10,C075,Physical Education,9/6/2023,2/15/2024,Completed,A+,98,60,4,8,20,16,95,"[92, 96, 98, 94]",95,96,4,98,4.9,High,Urban,Yes,None,Visual,Advanced,92%,105,68.4,98.1
+1039,Noah Clark,15,M,9,C076,Intro to Programming,9/6/2023,2/15/2024,Completed,B,88,43,4,5,14,11,82,"[80, 85, 85, 88]",84.5,82,1,84,4.1,Medium,Suburban,Yes,None,Auditory,Intermediate,71%,105,50.1,83.2
+1040,Ava Martin,16,F,11,C077,Chemistry,9/6/2023,2/15/2024,In Progress,B,89,45,4,5,15,12,80,"[78, 85, 82, 88]",83.25,80,1,82,3.9,Medium,Suburban,Yes,Dyslexia,Visual,Intermediate,72%,105,53.1,81.7
+1041,Jacob Wilson,16,M,10,C078,Spanish II,9/6/2023,2/15/2024,In Progress,B,88,45,4,5,15,12,80,"[78, 85, 82, 88]",84.6,80,1,82,3.9,Medium,Suburban,Yes,None,Auditory,Intermediate,72%,105,53.1,81.7
+1042,Olivia Garcia,17,F,9,C079,Art History,9/6/2023,2/15/2024,Completed,A-,93,50,4,6,17,14,88,"[85, 90, 92, 88, 86]",88.2,86,2,90,4.4,High,Urban,Yes,None,Visual,Advanced,78%,105,58.8,89.3
+1043,Ethan Retes,15,M,10,C080,Literature,9/6/2023,2/15/2024,In Progress,B,88,42,4,5,14,11,82,"[80, 85, 85,86]",83.33,81,1,84,4.1,Medium,Suburban,Yes,ADHD,Visual,Intermediate,70%,105,49.4,82.1
+1044,Mia Davis,16,F,9,C081,Physics,9/6/2023,2/15/2024,Completed,A,96,55,4,7,18,15,92,"[90, 92, 88, 94]",91,90,3,92,4.6,High,Urban,Yes,None,Auditory,Intermediate,82%,105,61.1,91.4
+1045,Ava Rodriguez,17,F,10,C082,History,9/6/2023,2/15/2024,Completed,A+,98,60,4,8,20,16,95,"[92, 96, 98, 94]",95,96,4,98,4.9,High,Urban,Yes,None,Visual,Advanced,92%,105,68.4,98.1
+1026,Grace Hall,15,F,9,C071,Introduction to Music,9/5/2023,11/15/2023,In Progress,B,88,42,4,5,14,11,82,"[80, 85, 85, 88]",84.5,81,1,84,4.1,Medium,Suburban,Yes,None,Auditory,Intermediate,70%,105,49.4,82.1
+1027,Ethan Davis,16,M,10,C072,Biology,9/5/2023,11/16/2023,Completed,A,96,55,4,7,18,15,92,"[90, 92, 88, 94]",91,90,3,92,4.6,High,Urban,Yes,None,Visual,Advanced,82%,105,61.1,91.4
+1028,Isabella Brown,17,F,11,C073,Algebra II,9/5/2023,11/17/2023,Completed,A+,98,60,4,8,20,16,95,"[92, 96, 98, 94]",95,94,4,96,4.8,High,Urban,Yes,None,Visual,Advanced,90%,105,67.5,96.3
+1029,Lucas Wilson,15,M,9,C074,World Geography,9/5/2023,11/18/2023,In Progress,B-,86,40,4,5,13,10,78,"[75, 80, 82, 85]",80.5,77,1,80,3.7,Medium,Suburban,Yes,None,Auditory,Intermediate,68%,105,47.1,79.2
+1030,Sophia Lee,16,F,10,C075,Physical Education,9/5/2023,11/19/2023,Completed,A-,94,48,4,6,15,13,88,"[85, 90, 88, 86]",87.25,85,2,88,4.3,High,Urban,Yes,Dyslexia,Visual,Intermediate,77%,105,56.7,88.2
+1031,Noah Moore,17,M,9,C076,Intro to Programming,9/5/2023,11/20/2023,Completed,A,95,58,4,7,19,15,93,"[90, 92, 95, 88]",91.25,90,3,94,4.7,High,Urban,Yes,ADHD,Visual,Advanced,84%,105,63.6,94.3
+1032,Emma smith,16,F,11,C077,Chemistry,9/5/2023,11/21/2023,Completed,A-,93,52,4,6,17,13,88,"[85, 90, 88, 86]",87.25,86,2,90,4.4,High,Urban,Yes,None,Auditory,Intermediate,79%,105,57.9,88.8
+1033,Oliver Martinez,15,M,10,C078,Spanish II,9/5/2023,11/22/2023,In Progress,B,89,44,4,5,14,11,82,"[80, 85, 85, 88]",84.5,82,1,84,4.1,Medium,Suburban,Yes,None,Visual,Intermediate,71%,105,50.1,83.2
+1062,Ubers Garcia,15,F,9,C071,Introduction to Music,9/10/2023,11/10/2023,Completed,B+,91,47,5,6,14,11,85,"[80, 85, 82, 88, 84]",83.8,82,1,86,4.2,Medium,Urban,Yes,Dyslexia,Visual,Advanced,72%,105,52.1,85.3
+1063,Noah Martinez,16,M,10,C072,Biology,9/10/2023,12/11/2023,In Progress,C+,79,36,3,3,10,7,70,"[68, 75, 72]",71.67,70,0,72,3,Medium,Urban,Yes,None,Auditory,Intermediate,55%,105,39.6,70.5
+1064,Amelia Brown,14,F,11,C073,Algebra II,9/10/2023,12/12/2023,Completed,A-,92,50,5,5,15,12,88,"[85, 90, 88, 92, 86]",88.2,85,2,90,4.5,High,Urban,Yes,None,Visual,Advanced,75%,105,55.8,89.7
+1065,Oliver Wilson,15,M,9,C074,World Geography,9/10/2023,12/13/2023,In Progress,C,76,34,3,3,9,6,68,"[65, 70, 68]",67.67,65,0,70,2.8,Low,Rural,Yes,ADHD,Auditory,Beginner,50%,105,36,68.1
+1066,Dong Lee,14,F,10,C075,Physical Education,9/10/2023,11/14/2023,Completed,B,85,42,4,4,12,9,78,"[75, 80, 77, 82]",78.5,76,1,80,3.9,Medium,Suburban,Yes,None,Auditory,Intermediate,65%,105,46.8,78.9
+1067,James Thompson,16,M,9,C076,Intro to Programming,9/10/2023,12/15/2023,In Progress,B+,88,45,5,5,13,10,80,"[78, 85, 82, 80]",81.25,80,1,84,4.1,Medium,Urban,Yes,None,Visual,Intermediate,70%,105,50.4,83.8
+1068,Evelyn Davis,15,F,11,C077,Chemistry,9/10/2023,12/16/2023,Completed,A-,92,48,5,6,14,11,86,"[85, 88, 90, 87, 84]",86.8,84,1,88,4.3,Medium,Urban,Yes,None,Auditory,Advanced,75%,105,52.2,86.4
+1069,Harper Wilson,14,M,10,C078,Spanish II,9/10/2023,12/17/2023,In Progress,B-,84,40,4,4,11,8,75,"[72, 80, 75, 78]",76.25,74,0,78,3.5,Medium,Suburban,Yes,None,Visual,Intermediate,62%,105,45.6,76.7
+1070,Scarlett Hernandez,15,F,9,C079,Art History,9/10/2023,12/18/2023,Completed,A,94,55,5,5,16,13,88,"[85, 88, 90, 92, 94]",89.8,88,2,90,4.6,High,Urban,Yes,None,Auditory,Advanced,80%,105,60.3,89.7
+1046,Noah Minor,15,M,9,C071,Introduction to Music,9/7/2023,11/24/2023,In Progress,B-,87,41,2,5,13,10,78,"[75, 80]",77.5,78,1,80,3.8,Medium,Suburban,Yes,None,Auditory,Intermediate,69%,105,48.3,80.4
+1047,Emma Moore,16,F,10,C072,Biology,9/7/2023,11/25/2023,Completed,B+,91,47,4,6,15,12,85,"[82, 88, 85, 90]",86.25,84,2,88,4.2,High,Urban,Yes,None,Auditory,Intermediate,76%,105,55.5,87.3
+1048,Isabella Smith,17,F,11,C073,Algebra II,9/7/2023,11/26/2023,Completed,A+,98,60,6,8,20,16,95,"[92, 96, 98, 94, 97]",95.4,96,4,98,4.9,High,Urban,Yes,None,Visual,Advanced,92%,105,68.4,98.1
+1049,Sophia Thompson,15,F,9,C074,World Geography,9/7/2023,11/27/2023,In Progress,B,89,43,5,5,14,11,82,"[80, 85, 85, 88, 84]",84.4,82,1,84,4.1,Medium,Suburban,Yes,None,Visual,Intermediate,71%,105,50.1,83.2
+1050,Lucas Davis,16,M,10,C075,Physical Education,9/7/2023,11/28/2023,Completed,A-,94,50,4,6,16,13,88,"[85, 90, 88, 86]",87.25,85,2,88,4.3,High,Urban,Yes,None,Auditory,Intermediate,78%,105,56.7,88.2
+1051,Harper Thompson,15,F,9,C076,Intro to Programming,9/7/2023,11/29/2023,Completed,B+,92,48,5,6,15,12,86,"[85, 88, 90, 85, 88]",87.2,84,1,88,4.3,Medium,Suburban,Yes,Dyslexia,Visual,Intermediate,74%,105,55.2,86.7
+1052,Lincoln Hernandez,16,M,11,C077,Chemistry,9/7/2023,11/30/2023,In Progress,B-,85,40,4,4,12,9,75,"[72, 80, 72, 80]",76,75,1,78,3.5,Medium,Urban,Yes,None,Auditory,Intermediate,65%,105,45.6,77.1
+1053,Hazel Martinez,17,F,10,C078,Spanish II,9/7/2023,12/1/2023,Completed,A,95,55,5,5,16,13,87,"[85, 88, 90, 92, 94]",89.8,90,3,92,4.7,High,Urban,Yes,None,Visual,Advanced,80%,105,60.3,91.4
+1001,John Doe,16,M,9,C071,Introduction to Music,9/1/2023,12/15/2023,Completed,A-,95,45,4,5,15,10,88,"[85, 90, 88, 92]",88.75,85,5,90,4.5,High,Urban,Yes,None,Visual,Advanced,80%,105,55.5,88.1
+1002,Jane Smith,17,F,10,C072,Biology,9/1/2023,12/15/2023,Completed,B+,90,50,4,6,12,12,85,"[78, 82, 80, 85]",81.25,80,0,85,4,Medium,Suburban,Yes,None,Auditory,Intermediate,75%,105,60.5,85.4
+1003,Sam Lee,15,M,11,C073,Algebra II,9/1/2023,12/15/2023,In Progress,B,85,35,4,4,10,8,82,"[88, 84, 79, 85]",84,78,2,80,3.8,Low,Rural,No,Dyslexia,Kinesthetic,Beginner,60%,105,42.6,81.8
+1004,Alex Brown,18,F,9,C074,World Geography,9/1/2023,12/15/2023,Completed,A,98,60,4,7,20,15,92,"[92, 95, 90, 94]",92.75,90,3,95,4.8,High,Urban,Yes,ADHD,Visual,Advanced,85%,105,67.5,94.1
+1005,Mike Davis,16,M,10,C075,Physical Education,9/1/2023,12/15/2023,Completed,B-,88,40,4,5,11,10,78,"[70, 75, 78, 80]",75.75,75,1,80,3.5,Medium,Suburban,Yes,None,Auditory,Intermediate,70%,105,46.6,79.8
+1006,Emily Clark,17,F,9,C076,Intro to Programming,9/1/2023,12/15/2023,In Progress,B+,92,48,4,6,13,14,86,"[84, 86, 88, 86]",86,82,2,85,4.1,High,Urban,Yes,None,Visual,Intermediate,78%,105,54.1,86.4
+1007,Bob Johnson,15,M,11,C077,Chemistry,9/1/2023,12/15/2023,Completed,A-,95,46,4,5,14,10,88,"[90, 88, 85, 94]",89.25,85,3,90,4.4,Low,Rural,No,None,Kinesthetic,Beginner,75%,105,55.5,88.1
+1008,Sara Wilson,18,F,10,C078,Spanish II,9/1/2023,11/15/2023,In Progress,A,96,55,4,7,18,15,93,"[92, 94, 95, 94]",93.75,91,4,95,4.7,High,Urban,Yes,None,Visual,Advanced,88%,105,67.5,94.1
