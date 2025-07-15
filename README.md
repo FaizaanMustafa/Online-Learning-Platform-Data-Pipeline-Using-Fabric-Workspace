@@ -22,3 +22,8 @@ Here is the data set used - https://github.com/FaizaanMustafa/Online-Learning-Pl
 ## Data Model
 ![Data Model](DataModel.jpg)
 
+## ETL Pipline (RAW To Lanidng)
+In this we have taken the raw data and have ittereated using foreach function so that the raw data moves from raw folder to landing folder. 
+![RAW_TO_LANDING](ETL_ONE.jpg)
+
+
